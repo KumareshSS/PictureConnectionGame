@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe053a9fda5b34d4c8f15451de4a8fe8, type: 3}
+  m_Name: QuestionDatabase
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: Guess the Movie?
+    answers: Bahubali
+    clueImages:
+    - {fileID: 21300000, guid: c1d2db427a433e44798ac207bcc7c8b2, type: 3}
+    - {fileID: 21300000, guid: 11626548e28229943813fd3feb215326, type: 3}
+    - {fileID: 21300000, guid: 48a61036ca3de494581e5b1c0f304927, type: 3}
+    - {fileID: 21300000, guid: 343a8979f9a921e46a85bc60e357ddb2, type: 3}
+    - {fileID: 21300000, guid: fd6dd7caf257cab4a95d054d797dbcda, type: 3}
+  - questionText: Guess the Cricketer?
+    answers: VIRAT
+    clueImages:
+    - {fileID: 21300000, guid: 2b6b719b241386e408b65ee55a5d47f5, type: 3}
+    - {fileID: 21300000, guid: 26308abcb7ffbb14987b3cd82b968632, type: 3}
+    - {fileID: 21300000, guid: ddc8259ad99469645956d1acf77b825c, type: 3}
+    - {fileID: 21300000, guid: 0583a27783fc54841ae2274ba3013139, type: 3}
+    - {fileID: 21300000, guid: cf881c5ad3cb9b84eab817f7b6adc1db, type: 3}
